@@ -1,3 +1,4 @@
-main:
+{{ saltenv }}:
+#main:
   '*':
     - motd
